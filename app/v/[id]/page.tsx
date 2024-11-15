@@ -88,7 +88,7 @@ const jsonLd = {
         name: `${file.title}`,
         thumbnailUrl: file.splash_img,
         description: `${file.title} di ${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma`,
-        url: `https://bokepketahuan.pages.dev/v/${file.filecode}`,
+        url: `https://bokeppijit.pages.dev/v/${file.filecode}`,
         embedUrl: `https://doodstream.com/e/${file.filecode}`,
         uploadDate: new Date(
             file.uploaded + ".000Z"
@@ -98,7 +98,7 @@ const jsonLd = {
                 userInteractionCount: `${file.views}`,
             interactionType: {
                 '@type': `WatchAction`,
-                target: `https://bokepketahuan.pages.dev/v/${file.filecode}`
+                target: `https://bokeppijit.pages.dev/v/${file.filecode}`
             }  
         }
         }
